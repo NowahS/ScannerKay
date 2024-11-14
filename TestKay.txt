@@ -1,0 +1,23 @@
+﻿//  //comment
+/   //operator
+8   //literal
+4894309432 //literal
+True //literal
+False //literal
+true  //identifier
+void  //identifier
+do    //identifier
+=     //other
+&     //other
+1!==3  //literal, operator, other, literal
+True && False  //literal, operator, literal
+!5 //operator, literal
+,
+;
+5,000 //literal,separator,literal
+a //identifier
+aa //identifier, identifier
+a3 //identifier
+a 3 //identifier,literal
+2.5 //lexical error (Other)
+
