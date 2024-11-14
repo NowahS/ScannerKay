@@ -7,7 +7,7 @@
 public class ScannerDemo {
 
 	// This needs to be changed !
-	private static String file1 = "C:\\Users\\purpl\\OneDrive\\Documents\\CS361\\JAY hw\\TestKay.txt";
+	private static String file1 = "\TestKay.txt";
 	private static int counter = 1;
 
 	public static void main(String args[]) {
